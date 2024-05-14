@@ -9,9 +9,6 @@ An iOS application based on SwiftUI, that seamlessly integrates the cutting-edge
 
 [View on Eraser![](https://app.eraser.io/workspace/L9IBIma4J6mgDAu7yNPI/preview?elements=w2hUwVYUy7-XC1GXGFwqMw&type=embed)](https://app.eraser.io/workspace/L9IBIma4J6mgDAu7yNPI?elements=w2hUwVYUy7-XC1GXGFwqMw)
 
-![68747470733a2f2f6170702e6572617365722e696f2f776f726b73706163652f4c394942496d61344a366d6744417537794e50492f707265766965773f656c656d656e74733d773268557756595579372d5843314758474677714d7726747970653d656d626564-2](https://github.com/wafflebytes/Snappy/assets/138287343/5d37878b-6a77-4037-87cb-2cf446ae23ca)
-
-
 ## 📝 Features
 
 - 🎥 Camera-powered item detection: Point your camera at any object, and Snappy will use its magical powers to recognize it!
