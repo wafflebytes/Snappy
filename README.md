@@ -2,7 +2,7 @@
 
 <a href="https://github.com/wafflebytes/Snappy/assets/138287343/40c4bff3-eb15-4ec8-add0-990b29460144">
     <img src="https://github.com/wafflebytes/Snappy/assets/138287343/40c4bff3-eb15-4ec8-add0-990b29460144" height="200" width="200">
-    <img src="[https://github.com/wafflebytes/Snappy/assets/138287343/40c4bff3-eb15-4ec8-add0-990b29460144](https://github.com/wafflebytes/Snappy/assets/138287343/fe6594de-b4c7-4c1c-8181-882eeaf585e4)" height="200" width="200">
+    <img src="https://github.com/wafflebytes/Snappy/assets/138287343/fe6594de-b4c7-4c1c-8181-882eeaf585e4" height="200" width="200">
 </a>
 
 
