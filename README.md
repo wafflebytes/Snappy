@@ -15,6 +15,9 @@ An iOS application based on SwiftUI, that seamlessly integrates the cutting-edge
 - 📝 Effortless list management: Add detected items to your list with just a tap, making grocery shopping a breeze, by using tagging and colour coding.
 - 🔄 Persistence powered by UserDefaults: Your list will be there whenever you need it, even after closing and reopening the app!
 
+The SqueezeNet model stores model weights using full precision (32 bit) floating point, which uses only 5mb of space! 
+I wanted to leverage this into creating an app capitalizing on its hyper minimal nature.
+
 ## 🎯 Use Cases
 
 Snappy's camera-based item detection and list management capabilities can be adapted to various scenarios:
