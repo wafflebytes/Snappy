@@ -1,7 +1,7 @@
 # 🔥 Snappy: The Snap-tastic List Maker! 🛒
 
 <a href="https://github.com/wafflebytes/Snappy/assets/138287343/40c4bff3-eb15-4ec8-add0-990b29460144">
-    <img src="https://github.com/wafflebytes/Snappy/assets/138287343/40c4bff3-eb15-4ec8-add0-990b29460144" height="50" width="50">
+    <img src="https://github.com/wafflebytes/Snappy/assets/138287343/40c4bff3-eb15-4ec8-add0-990b29460144" height="100" width="100">
 </a>
 
 
