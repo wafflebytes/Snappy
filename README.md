@@ -7,6 +7,8 @@ An iOS application based on SwiftUI, that seamlessly integrates the cutting-edge
     </div>
 </div>
 
+[View on Eraser![](https://app.eraser.io/workspace/L9IBIma4J6mgDAu7yNPI/preview?elements=w2hUwVYUy7-XC1GXGFwqMw&type=embed)](https://app.eraser.io/workspace/L9IBIma4J6mgDAu7yNPI?elements=w2hUwVYUy7-XC1GXGFwqMw)
+
 ## 📝 Features
 
 - 🎥 Camera-powered item detection: Point your camera at any object, and Snappy will use its magical powers to recognize it!
