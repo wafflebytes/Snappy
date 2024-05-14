@@ -4,7 +4,6 @@
     <img src="https://github.com/wafflebytes/Snappy/assets/138287343/40c4bff3-eb15-4ec8-add0-990b29460144" height="100" width="100">
 </a>
 
-
 Introducing Snappy: Leveraging CoreML and SqueezeNet for Advanced Object Recognition.
 An innovative iOS application that seamlessly integrates the cutting-edge capabilities of CoreML and the sophisticated architecture of SqueezeNet to deliver a sophisticated and immersive user experience.
 
@@ -31,7 +30,8 @@ Snappy's camera-based item detection and list management capabilities can be ada
 
 ## 📋 Prerequisites
 
-To enjoy the full Snappy experience, you'll need an iOS device. 
+> [!NOTE]
+> To enjoy the full Snappy experience, you'll need an iOS device. 
 Sorry, Simulator fans – the camera functionality requires a real-world device! 📱
 
 ## 🚀 Installation
