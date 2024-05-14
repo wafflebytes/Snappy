@@ -31,8 +31,8 @@ Snappy's camera-based item detection and list management capabilities can be ada
 ## 📋 Prerequisites
 
 > [!NOTE]
-> To enjoy the full Snappy experience, you'll need an iOS device. 
-Sorry, Simulator fans – the camera functionality requires a real-world device! 📱
+> To enjoy the full Snappy experience, you'll need an iOS device.
+> Sorry, Simulator fans – the camera functionality requires a real-world device! 📱
 
 ## 🚀 Installation
 
