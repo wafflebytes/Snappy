@@ -1,12 +1,11 @@
 # 🔥 Snappy: The Snap-tastic List Maker! 🛒
 
-   <img src="https://github.com/wafflebytes/Snappy/assets/138287343/7f7743b7-fc66-4c2f-94cf-2f7d474e29ac" height="300">
-    </div>
-</div>
-
 Introducing `Snappy`: Leveraging CoreML and SqueezeNet for Advanced Object Recognition.
 An iOS application based on SwiftUI, that seamlessly integrates the cutting-edge capabilities of CoreML and the sophisticated architecture of SqueezeNet to deliver a sophisticated and immersive user experience.
 
+   <img src="https://github.com/wafflebytes/Snappy/assets/138287343/7f7743b7-fc66-4c2f-94cf-2f7d474e29ac" height="300">
+    </div>
+</div>
 
 ## 📝 Features
 
