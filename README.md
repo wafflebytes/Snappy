@@ -1,8 +1,6 @@
 # 🔥 Snappy: The Snap-tastic List Maker! 🛒
 
-<div style="display: flex; justify-content: center;">
-    <div style="display: flex; justify-content: space-between; max-width: 800px; width: 100%;">
-        <img src="https://github.com/wafflebytes/Snappy/assets/138287343/fe6594de-b4c7-4c1c-8181-882eeaf585e4" height="300" style="margin-left: 10px;">
+   <img src="https://github.com/wafflebytes/Snappy/assets/138287343/fe6594de-b4c7-4c1c-8181-882eeaf585e4" height="300">
     </div>
 </div>
 
